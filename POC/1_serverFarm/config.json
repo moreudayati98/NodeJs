@@ -1,0 +1,4 @@
+{
+    "max_child_processes": 4,
+    "exe_name": "./some_app_executable"
+}
